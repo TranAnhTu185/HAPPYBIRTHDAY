@@ -144,7 +144,7 @@ li {
 }
 
 .maxbox li:nth-child(2) {
-    transform: rotateX(180deg) translateZ(100px);
+    transform: rotateX(180deg) translateZ(100px) rotateZ(180deg);
 }
 
 .maxbox li:nth-child(3) {
