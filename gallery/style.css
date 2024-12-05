@@ -90,7 +90,7 @@ li {
 
 .maxbox li:nth-child(2) {
     background: url('./images/IMG_3789.JPG') no-repeat 0 0;
-    transform: rotateX(180deg) translateZ(50px) rotateZ(180deg);
+    transform: rotateX(180deg) translateZ(50px) rotateZ(180deg) rotateZ(180deg);
     background-size: 100% 100%;
 }
 
